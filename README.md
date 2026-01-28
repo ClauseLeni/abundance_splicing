@@ -45,10 +45,6 @@ This repo contains the scripts used to (i) convert RNA-seq BAM alignments agains
 - `splicing.sh`  
   Convenience script used to run `spliced_coverage.jl` across samples.
 
-### Notebooks / outputs
-- `splicing.ipynb` → `intron_splicing.svg`, `log_splicing_ratios.svg`
-- `cp_splicing.ipynb` → coverage visualisations at selected loci
-
 ---
 
 ## Requirements
